@@ -3090,7 +3090,7 @@
         "@azure/arm-containerregistry": "^10.1.0",
         "@azure/storage-blob": "^12.14.0",
         "@microsoft/compose-language-service": "^0.4.0",
-        "@microsoft/vscode-azext-azureappservice": "~3.5.0",
+        "@microsoft/vscode-azext-azureappservice": "~3.6.4",
         "@microsoft/vscode-azext-azureauth": "^4.1.1",
         "@microsoft/vscode-azext-azureutils": "^3.0.1",
         "@microsoft/vscode-azext-utils": "^2.6.6",
