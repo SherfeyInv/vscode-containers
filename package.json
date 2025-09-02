@@ -3098,7 +3098,7 @@
         "@microsoft/vscode-docker-registries": "^0.2.0",
         "dayjs": "^1.11.7",
         "dockerfile-language-server-nodejs": "^0.14.0",
-        "fs-extra": "^11.1.1",
+        "fs-extra": "^11.3.1",
         "gradle-to-js": "^2.0.1",
         "handlebars": "^4.7.7",
         "semver": "^7.5.2",
